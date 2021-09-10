@@ -1,0 +1,24 @@
+{
+  "name": "nodehasher",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+    "morgan": "^1.10.0",
+    "node-pre-gyp": "^0.17.0",
+    "nodemon": "^2.0.12"
+  },
+  "keywords": [
+    "cryto",
+    "hasher"
+  ]
+}
